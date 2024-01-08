@@ -1,6 +1,6 @@
 ###########################
 # Latent ODEs for Irregularly-Sampled Time Series
-# 	Application into warp breathing prediction
+# 	Application into warp breathing prediction for TFG Pablo
 # Author: Adrian Perez Herrero
 ###########################
 
